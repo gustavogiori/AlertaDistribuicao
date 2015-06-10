@@ -1,0 +1,13 @@
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\Debug\Alerta distribuição.exe.config
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\Debug\Alerta distribuição.exe
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\Debug\Alerta distribuição.pdb
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta distribuição.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta_distribuição.Properties.Resources.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta distribuição.csproj.GenerateResource.Cache
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta distribuição.exe
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta distribuição.pdb
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta_distribuição.frmBase.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\Debug\ConexaoBanco.dll
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\Debug\ConexaoBanco.pdb
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta_distribuição.Configuração.frmConfiguracao.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\Debug\Alerta_distribuição.frmHome.resources

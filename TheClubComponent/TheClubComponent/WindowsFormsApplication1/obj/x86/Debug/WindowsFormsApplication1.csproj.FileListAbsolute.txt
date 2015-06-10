@@ -1,0 +1,36 @@
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\TheClubExtendedComponent.dll
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\TheClubExtendedComponent.pdb
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\Componentes.dll
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\Core.dll
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\Resource.dll
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\Componentes.pdb
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\Core.pdb
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\Resource.pdb
+C:\TheClubComponent\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\TheClubExtendedComponent.dll
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\Core.dll
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\Resource.dll
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\TheClubExtendedComponent.pdb
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\Componentes.pdb
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\Core.pdb
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\bin\Debug\Resource.pdb
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gustavo Giori\Downloads\TheClubComponent\TheClubComponent\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

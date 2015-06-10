@@ -1,0 +1,22 @@
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\Alerta distribuição.exe.config
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\Alerta distribuição.exe
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\Alerta distribuição.pdb
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\ConexaoBanco.dll
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\ConexaoBanco.pdb
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta distribuição.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta_distribuição.Configuração.frmConfiguracao.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta_distribuição.frmBase.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta_distribuição.frmHome.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta_distribuição.Properties.Resources.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta distribuição.csproj.GenerateResource.Cache
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta distribuição.exe
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta distribuição.pdb
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta_distribuição.Analista.frmCadastroAnalista.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta_distribuição.Analista.frmNovoAnalista.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\TheClubExtendedComponent.dll
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\TheClubExtendedComponent.pdb
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\Alerta distribuição.exe.manifest
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\bin\x64\Debug\Alerta distribuição.application
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta_distribuição.Emails.frmEmailRetificao.resources
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta distribuição.exe.manifest
+C:\Users\Gustavo Giori\documents\visual studio 2013\Projects\Alerta distribuição\Alerta distribuição\obj\x64\Debug\Alerta distribuição.application
